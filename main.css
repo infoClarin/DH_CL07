@@ -1,0 +1,12 @@
+#str{
+    width: 350px;
+    padding: 20px;
+    margin: 200px auto;
+    height: auto;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    background: #000;
+    text-align: center;
+}
+
